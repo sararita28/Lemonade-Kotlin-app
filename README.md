@@ -25,3 +25,8 @@ Tips
 
 - Use the provided tests to ensure your app is running as expected
 - DO NOT ALTER THE PROVIDED TESTS
+
+<img src="Screen Shot 2022-02-20 at 17.01.43.png" />
+<img src="Screen Shot 2022-02-20 at 17.01.46.png" />
+<img src="Screen Shot 2022-02-20 at 17.01.03.png" />
+<img src="Screen Shot 2022-02-20 at 17.01.06.png" />
